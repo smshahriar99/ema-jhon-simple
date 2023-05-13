@@ -1,0 +1,12 @@
+.product {
+  width: 80%;
+  display: block;
+  float: left;
+  padding: 5px;
+}
+.cart {
+  width: 15%;
+  display: block;
+  float: left;
+  padding: 5px;
+}

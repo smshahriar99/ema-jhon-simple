@@ -1,0 +1,15 @@
+.reviewProduct {
+  width: 80%;
+  display: block;
+  float: left;
+  padding: 5px;
+}
+.reviewCart {
+  width: 15%;
+  display: block;
+  float: left;
+  padding: 5px;
+}
+.mainCart {
+  background-color: brown;
+}
